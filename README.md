@@ -1,3 +1,10 @@
+------------------------
+`build client and server: cd build/ && make && cd app/ && make`
+
+modify by Shanjin Yang
+
+------------------------
+
 [![Travis Build Status](https://travis-ci.org/warmcat/libwebsockets.png)](https://travis-ci.org/warmcat/libwebsockets)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/qfasji8mnfnd2r8t)](https://ci.appveyor.com/project/warmcat/libwebsockets)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/3576/badge.svg)](https://scan.coverity.com/projects/3576)
